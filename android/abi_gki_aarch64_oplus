@@ -1,4 +1,5 @@
 [abi_symbol_list]
+  android_vh_pcpu_rwsem_handler
   address_space_init_once
   bio_add_page
   bio_associate_blkg

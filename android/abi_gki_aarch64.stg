@@ -347517,6 +347517,15 @@ elf_symbol {
   full_name: "android_rvh_probe_register"
 }
 elf_symbol {
+  id: 0x8df9ecba
+  name: "android_vh_pcpu_rwsem_handler"
+  is_defined: true
+  symbol_type: FUNCTION
+  crc: 0x86edb09b
+  type_id: 0x34682689
+  full_name: "android_vh_pcpu_rwsem_handler"
+}
+elf_symbol {
   id: 0x95eaf556
   name: "anon_inode_getfd"
   is_defined: true
